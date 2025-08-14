@@ -15,7 +15,8 @@ The objective of this project is to provide a clear visual overview of ecommerce
 - Do we need to highlight high-performing and low-performing months or products?
 - Should filters (e.g., state, category, time period) be included for deeper analysis?
 
-- Dashboard Interaction <a href="https://github.com/Yashbansode76/Data-Analysis-Dashboard/blob/main/Mehata%20Ecommerce%20Sales%20Dashboard.png">View Dshboard</a>
+## Dashboard Interaction 
+<a href="https://github.com/Yashbansode76/Data-Analysis-Dashboard/blob/main/Mehata%20Ecommerce%20Sales%20Dashboard.png">View Dshboard</a>
 
 ## Process:
 - Define the purpose and business questions for the dashboard.
@@ -26,6 +27,9 @@ The objective of this project is to provide a clear visual overview of ecommerce
 - Create visualizations with appropriate chart types.
 - Add filters and interactive elements for deeper analysis.
 - Test, refine, and update the dashboard regularly.
+
+## Dashboard:
+<img width="1130" height="637" alt="Mehata Ecommerce Sales Dashboard" src="https://github.com/user-attachments/assets/35194ff6-66db-41db-9cd7-e748da19b8b2" />
 
 ## Chart:
 - KPI Cards :- for Total Sales, Total Profit, Quantity Sold, and Average Order Value.
