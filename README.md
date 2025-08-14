@@ -40,5 +40,12 @@ The objective of this project is to provide a clear visual overview of ecommerce
 - Horizontal Bar Chart :- for Top 5 Customers by Sales.
 - Stacked Bar Chart :- for Quantity and Profit by Sub-Category.
 
+## project Insight:
+- Sales and profit are highest in certain states and categories.
+- A few customers contribute a major share of revenue.
+- Monthly profit shows seasonal ups and downs.
+- Customers prefer specific payment modes.
+- Helps identify growth opportunities and weak areas.
+
 ## Conclusion:
 The Mehata Ecommerce Sales Dashboard provides a clear and interactive view of business performance, enabling quick insights into sales, profit, customer behavior, and product trends. By combining KPIs with visual charts, it helps identify top-performing states, products, and customers, track seasonal profit patterns, and understand payment preferences. This empowers decision-makers to spot growth opportunities, address underperforming areas, and make data-driven strategies for improving overall ecommerce performance.
