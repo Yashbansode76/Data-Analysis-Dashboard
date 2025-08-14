@@ -17,7 +17,7 @@ The objective of this project is to provide a clear visual overview of ecommerce
 
 - Dashboard Interaction <a href="https://github.com/Yashbansode76/Data-Analysis-Dashboard/blob/main/Mehata%20Ecommerce%20Sales%20Dashboard.png">View Dshboard</a>
 
-## process:
+## Process:
 - Define the purpose and business questions for the dashboard.
 - Gather all relevant ecommerce data (sales, profit, quantity, categories, customers, states, payment modes).
 - Clean and prepare the data for analysis.
@@ -35,3 +35,6 @@ The objective of this project is to provide a clear visual overview of ecommerce
 - Line Chart :- for Monthly Profit Trend.
 - Horizontal Bar Chart :- for Top 5 Customers by Sales.
 - Stacked Bar Chart :- for Quantity and Profit by Sub-Category.
+
+## Conclusion:
+The Mehata Ecommerce Sales Dashboard provides a clear and interactive view of business performance, enabling quick insights into sales, profit, customer behavior, and product trends. By combining KPIs with visual charts, it helps identify top-performing states, products, and customers, track seasonal profit patterns, and understand payment preferences. This empowers decision-makers to spot growth opportunities, address underperforming areas, and make data-driven strategies for improving overall ecommerce performance.
