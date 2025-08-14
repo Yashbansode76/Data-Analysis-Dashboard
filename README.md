@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-The Mehata Ecommerce Sales Dashboard shows key metrics like sales, profit, quantity, and AOV, with insights on top states, categories, customers, payment modes, monthly profit trends, and most profitable products.
+# Mehata Ecommerce Sales Dashboard
+## Objectives:
+The objective of this project is to provide a clear visual overview of ecommerce performance, enabling quick analysis of sales, profit, customer behavior, product trends, and payment preferences for better decision-making.
+## Dataset Used:
